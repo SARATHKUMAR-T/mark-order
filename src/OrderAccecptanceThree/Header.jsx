@@ -110,10 +110,10 @@ const styles = StyleSheet.create({
 
   title1: {
     backgroundColor: '#FFB74D',
-    fontSize: '10',
+    fontSize: '14',
     marginBottom: '6px',
-    fontWeight: 800,
-    fontFamily: "Roboto-Bold"
+    fontFamily: "Roboto-Bold",
+
   },
   title2: {
     backgroundColor: '#FFB74D',
